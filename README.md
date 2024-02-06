@@ -13,8 +13,8 @@
 **Note:** This Eclipse distribution does not require any installation. Just unzip the downloaded package and start the eclipse application
 
  ## Session materials
- - Slides
- - Assignment
- - Manual for Eclipse project management
-   - Alternative for IntelliJ IDEA EXPERT usersFile
- - Manual for running MapReduce jobs locallyFile 
+ - [Slides](https://github.com/dtim-upc/MapReduce-PATC/blob/main/Hands-on-MapReduce-Slides.pdf)
+ - [Assignment](https://github.com/dtim-upc/MapReduce-PATC/blob/main/Hands-on-MapReduce-Assignment.pdf)
+ - [Manual for Eclipse project management](https://github.com/dtim-upc/MapReduce-PATC/blob/main/Eclipse-manual.pdf)
+   - [Alternative for IntelliJ IDEA EXPERT users](https://github.com/dtim-upc/MapReduce-PATC/blob/main/intellij-manual.pdf)
+ - [Manual for running MapReduce jobs locally](https://github.com/dtim-upc/MapReduce-PATC/blob/main/LocalMapreduce-manual.pdf)
