@@ -25,19 +25,19 @@
 - type_1 / type_2 / type_3
 
 **values:**
--"alc",					// Alchol
--"m_acid",				// Malic Acid
--"ash",					// Ash
--"alc_ash",				// Alcalinity of ash
--"mgn",					// Magnesium
--"t_phenols",			// Total phenols
--"flav",					// Flavanoids
--"nonflav_phenols",		// Nonflavanoid phenols
--"proant",				// Proanthocyanins
--"col",					// Color intensity
--"hue",					// Hue
--"od280/od315",			// OD280/OD315 of diluted wines
--"proline"				// Proline
+- "alc",					// Alchol
+- "m_acid",				// Malic Acid
+- "ash",					// Ash
+- "alc_ash",				// Alcalinity of ash
+- "mgn",					// Magnesium
+- "t_phenols",			// Total phenols
+- "flav",					// Flavanoids
+- "nonflav_phenols",		// Nonflavanoid phenols
+- "proant",				// Proanthocyanins
+- "col",					// Color intensity
+- "hue",					// Hue
+- "od280/od315",			// OD280/OD315 of diluted wines
+- "proline"				// Proline
 
 ### Example: 
 key,alc,m_acid,ash,alc_ash,mgn,t_phenols,flav,nonflav_phenols,proant,col,hue,od280/od31,proline
