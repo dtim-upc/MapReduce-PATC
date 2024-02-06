@@ -13,8 +13,8 @@
 **Note:** This Eclipse distribution does not require any installation. Just unzip the downloaded package and start the eclipse application
 
  ## Session materials
- - [Slides](https://github.com/dtim-upc/MapReduce-PATC/blob/main/Hands-on-MapReduce-Slides.pdf)
- - [Assignment](https://github.com/dtim-upc/MapReduce-PATC/blob/main/Hands-on-MapReduce-Assignment.pdf)
- - [Manual for Eclipse project management](https://github.com/dtim-upc/MapReduce-PATC/blob/main/Eclipse-manual.pdf)
-   - [Alternative for IntelliJ IDEA EXPERT users](https://github.com/dtim-upc/MapReduce-PATC/blob/main/intellij-manual.pdf)
- - [Manual for running MapReduce jobs locally](https://github.com/dtim-upc/MapReduce-PATC/blob/main/LocalMapreduce-manual.pdf)
+ - [Slides](https://github.com/dtim-upc/MapReduce-PATC/blob/main/materials/Hands-on-MapReduce-Assignment.pdf)
+ - [Assignment](https://github.com/dtim-upc/MapReduce-PATC/blob/main/materials/Hands-on-MapReduce-Assignment.pdf)
+ - [Manual for Eclipse project management](https://github.com/dtim-upc/MapReduce-PATC/blob/main/materials/Eclipse-manual.pdf)
+   - [Alternative for IntelliJ IDEA EXPERT users](https://github.com/dtim-upc/MapReduce-PATC/blob/main/materials/intellij-manual.pdf)
+ - [Manual for running MapReduce jobs locally](https://github.com/dtim-upc/MapReduce-PATC/blob/main/materials/LocalMapreduce-manual.pdf)
